@@ -3,10 +3,10 @@
 #### 📜 Few words about me
 
 ---
-- 🔭 I'm currently working on JAMStack solutions with [narloch.eu](https://narloch.eu/), open-source app with [geeks.academy](https://github.com/Programmers-Only-Group) and my own job portal about flowers business.
-- 🌱 I’m currently learning Typescript, Next.js and GSAP
-- 💬 Ask me about JAMStack, React, Gatsby
-- 👯 I am looking for a permanent job as a Junior Frontend Developer
+- 🔭 I'm writing a web application in the Vue ecosystem from Typescript on a daily basis.
+- 🌱 I am currently getting to know Jave to expand my knowledge in programming on the backend side.
+- 💬 I am also familiar with React and JAMStack solutions.
+- 👯 I'm interested in geopolitics and history and watch the development of blockchain and cryptocurrencies. 
 
 <br />
 

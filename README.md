@@ -11,7 +11,7 @@
 <br />
 
 [![Github Stats By Piotr Grobelak](https://github-readme-stats.vercel.app/api?username=PiotrGrobelak&show_icons=true&theme=tokyonight)]() </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrGrobelak&layout=compact&theme=tokyonight&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PiotrGrobelak&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 #### 🔨 Technologies & Tools  
 

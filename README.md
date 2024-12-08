@@ -8,6 +8,7 @@
 
 - 🔋Currently, I am focusing on expanding my software development knowledge and skills, particularly in Domain Driven Design, Event Storming, Event Mapping, and related areas. 
 - ✨ I'm writing a web application in the Vue ecosystem from Typescript on a daily basis.
+- ❤️ I lead a product team, delivering solutions that truly help people.
 - 🔗 I am also beginning to explore the Rust and the Java programming language. 
 - 👨‍💻 I am also familiar with React and JAMStack solutions.
 - 🦾 Recently, I have been automating tasks in the Linux environment for myself and my team. 
@@ -22,6 +23,7 @@
   <a href="#"><img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"></a>
   <a href="#" target="_blank"><img src="https://img.shields.io/badge/XState-FF4785?style=for-the-badge&logo=xstate&logoColor=white" alt="XState"></a>
   <a href="#"><img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"></a>
+  <a href="https://tauri.app/" target="_blank"><img src="https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=white" alt="Tauri"></a>
   <a href="#"><img alt="Java" src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"></a>
   <a href="#"><img alt="Spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"></a>
   <a href="#"><img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"></a>
